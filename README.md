@@ -1,5 +1,9 @@
 # Computer Vision Course Exercises - TU Munich
 
+Five TUM course exercises spanning person detection, multi-object tracking, graph-based re-identification, and image segmentation. The folders contain the original exercise structure, including code and supporting fixtures.
+
+**Start here:** [multi-object tracking](exercise_02/) for matching detections across frames, or [graph-based re-identification](exercise_03/) for linking observations of the same person.
+
 This repository contains multiple exercises, each focusing on different computer vision and machine learning tasks. These tasks are created as part of the Computer Vision course at TU Munich. Below is a brief overview of each exercise and its contents.
 
 ## Table of Contents
